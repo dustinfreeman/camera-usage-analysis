@@ -30,7 +30,7 @@ $ cd <your photo library's directory>
 
 On Mac:
 ```
-$ find . -name "*.jpg" -o -name "*.jpeg" -o -name "*.heic" >> ~/my-photo-library-list.txt
+$ find . \( -iname "*.jpg" -o -iname "*.jpeg" -o -iname "*.heic" \) >> ~/my-photo-library-list.txt
 ```
 On Windows, in Powershell:
 ```
