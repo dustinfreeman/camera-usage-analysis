@@ -84,4 +84,4 @@ The output you share with me will have the timestamp and time zone of every file
 
 Data Usage: All I'm doing with your timestamps is generating the plots "Photo Count Per Day" and "Sessions with a Given Number of Photos". I will save these images for comparison, and I will then delete the list of timestamps you sent. The plots generated will not be associated with your name anywhere (other than in my head, if I remember personally).
 
-I use this [Jupyter Notebook](./photo-session-finder.ipynb) to generate the plots. You can run this yourself and send me your plots if you'd prefer.
+I use this [Jupyter Notebook](./session-finder.ipynb) to generate the plots. You can run this yourself and send me your plots if you'd prefer.
